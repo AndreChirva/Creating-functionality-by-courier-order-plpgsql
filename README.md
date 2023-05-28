@@ -1,7 +1,7 @@
-# Creating-functionality-by-courier-order-plpgsql
-There was a request to create functionality by order of the courier. It is necessary to implement the storage and receipt of data on applications.
+# Реализации функционала по заказу курьера plpgsql
+Для реализации функционала по заказу курьера для доставки корреспонденции контрагентам, необходимо реализовать хранение и получение данных по заявкам.
 
-Техническое задание 
+                                                    Техническое задание 
 
 
 Для реализации функционала по заказу курьера для доставки корреспонденции контрагентам, необходимо реализовать хранение и получение данных по заявкам.
